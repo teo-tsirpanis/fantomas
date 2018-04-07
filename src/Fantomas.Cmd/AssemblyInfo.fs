@@ -4,14 +4,14 @@ open System.Reflection
 
 [<assembly: AssemblyTitleAttribute("Fantomas")>]
 [<assembly: AssemblyProductAttribute("Fantomas")>]
-[<assembly: AssemblyDescriptionAttribute("Source code formatter for F#")>]
-[<assembly: AssemblyVersionAttribute("2.6.1")>]
-[<assembly: AssemblyFileVersionAttribute("2.6.1")>]
+[<assembly: AssemblyDescriptionAttribute("Source code formatter for F#. With updated packages that do not wipe your codebase.")>]
+[<assembly: AssemblyVersionAttribute("2.6.2")>]
+[<assembly: AssemblyFileVersionAttribute("2.6.2")>]
 do ()
 
 module internal AssemblyVersionInformation =
     let [<Literal>] AssemblyTitle = "Fantomas"
     let [<Literal>] AssemblyProduct = "Fantomas"
-    let [<Literal>] AssemblyDescription = "Source code formatter for F#"
-    let [<Literal>] AssemblyVersion = "2.6.1"
-    let [<Literal>] AssemblyFileVersion = "2.6.1"
+    let [<Literal>] AssemblyDescription = "Source code formatter for F#. With updated packages that do not wipe your codebase."
+    let [<Literal>] AssemblyVersion = "2.6.2"
+    let [<Literal>] AssemblyFileVersion = "2.6.2"

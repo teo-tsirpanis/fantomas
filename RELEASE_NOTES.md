@@ -1,3 +1,7 @@
+#### 2.6.2 - 22-03-2018
+* Upgraded all NuGet packages.
+* This version is a temporary workaround that fixes issue #213, which is refused to be fixed by the project's maintainers.
+
 #### 2.6.1 - 22-04-2017
 * Upgrade to FCS 11.0.4
 
